@@ -82,6 +82,19 @@
 
 ---
 
+## 🔗 References & Open Source
+본 프로젝트는 아래의 오픈소스 라이브러리 및 기술 자료들을 참고하여 개발되었습니다.
+
+- **Kalman Filter Algorithm**: 
+  - [rfetick/Kalman-Filter](https://github.com/rfetick/Kalman-Filter) - 임베디드 환경 최적화 C++ 칼만 필터 라이브러리 구조 참고
+- **MAX31855 Thermocouple Sensor**: 
+  - [adafruit/Adafruit-MAX31855-library](https://github.com/adafruit/Adafruit-MAX31855-library) - SPI 통신 기반 온도 데이터 파싱 및 하드웨어 연동 참고
+- **NEO-6M GPS Module**: 
+  - [mikalhart/TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) - NMEA 데이터 추출 및 위도/경도 파싱 시퀀스 참고
+- **SoftwareSerial Communication**: 
+  - [Arduino/SoftwareSerial](https://github.com/arduino/ArduinoCore-avr/tree/master/libraries/SoftwareSerial) - 아두이노 Nano 내 다중 시리얼(LoRa/GPS) 수신 환경 분석
+---
+
 ## 📂 Repository Structure
 ```text
 ├── src/
