@@ -26,7 +26,7 @@
 ## 🛠️ Hardware Connection & Circuit Diagram
 
 ### [회로 배선도]
-![Circuit Diagram](image_587d39.jpg)
+![Circuit Diagram](wiring_diagram.jpeg)
 
 ### [주요 제어 하드웨어]
 - **MCU <-> MAX31855**: SPI 통신 기반 온도 데이터 수집
