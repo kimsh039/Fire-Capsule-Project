@@ -34,7 +34,7 @@
 - **MCU <-> Reyax RYLR898 (LoRa)**: 저전력 장거리 패킷 데이터 전송
 - **KSD-01F 바이메탈 열 스위치**: 화재 시 시스템을 깨우는 무전원 트리거 장치 ($110^\circ\text{C}$ 동작 형)
 
-![KSD-01F Thermal Switch](image_588024.png)
+![KSD-01F Thermal Switch](image.png)
 
 ---
 
