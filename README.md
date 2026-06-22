@@ -26,7 +26,7 @@
 ## 🛠️ Hardware Connection & Circuit Diagram
 
 ### [회로 배선도]
-![Circuit Diagram](wiring_diagram.jpeg)
+![Circuit Diagram](images/wiring_diagram.jpeg)
 
 ### [주요 제어 하드웨어]
 - **MCU <-> MAX31855**: SPI 통신 기반 온도 데이터 수집
@@ -34,7 +34,7 @@
 - **MCU <-> Reyax RYLR898 (LoRa)**: 저전력 장거리 패킷 데이터 전송
 - **KSD-01F 바이메탈 열 스위치**: 화재 시 시스템을 깨우는 무전원 트리거 장치 ($110^\circ\text{C}$ 동작 형)
 
-![KSD-01F Thermal Switch](image.png)
+![KSD-01F Thermal Switch](images/image.png)
 
 ---
 
