@@ -114,9 +114,8 @@ void process_fire_event() {
   }
 }
 
-// 하드웨어 종속 가상 함수 인터페이스 (컴파일 에러 방지용)
+// 하드웨어 종속 임시 인터페이스: 실제 GPS/열전대 드라이버로 교체해야 한다.
 void gps_init() {}
-void lora_init() {}
 void max31855_init() {}
 void get_gps_raw(double &lat, double &lon) { lat = 37.450; lon = 126.653; }
 double get_temp() { return 115.5; }
